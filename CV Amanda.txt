@@ -1,0 +1,21 @@
+///////////////////////PROFIL DIRI/////////////////
+
+Nama		            	: Amanda Dinta Kurniyani
+NIM		              	: 1302194045
+Tempat,Tanggal Lahir	: Pontianak,25 Januari 2002
+Jenis Kelamin		      : Perempuan
+Agama		            	: Islam
+Alamat	          		: Jalan Jati Utama Blok Y no.63, Margaasih, Kab.Bandung, Jawa Barat
+No.Telpon	          	: 082320483886
+Hobby			            : Renang, Membaca
+Email                 : amandadinta@student.telkomuniversity.ac.id
+/////////////////RIWAYAT PENDIDIKAN///////////////
+
+SD	 	: SDN CIBEUREUM 11 BANDUNG (2007-2013)
+SMP		: SMPN 47 BANDUNG (2013-2016)
+SMA		: SMAN 17 BANDUNG (2016-2019)
+
+//////////////////MEDIA SOSIAL///////////////////
+
+WA	  	: 082320483886
+LINE		: yuuki.shiro25
